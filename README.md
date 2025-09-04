@@ -1,4 +1,5 @@
-🏏 Asia Cup Analysis Dashboard
+##🏏 Asia Cup Analysis Dashboard
+
 📌 Overview
 
 This project presents an interactive Power BI dashboard designed to analyze the Asia Cup cricket tournament. The dashboard provides deep insights into player performances, team comparisons, and match outcomes, enabling users to explore trends and statistics in an engaging way.
@@ -22,5 +23,5 @@ This project presents an interactive Power BI dashboard designed to analyze the 
 4.Explore the dashboard using filters and slicers
 
 📷 Dashboard Preview
-![Asia Cup Dashboard](dashboard.png)
+![Asia Cup Dashboard](https://github.com/sarthakghodmare/ASIA-CUP-DASHBOARD/blob/main/ASIA%20CUP%20DASHBOARD%20SANPSHOT.png)
 
